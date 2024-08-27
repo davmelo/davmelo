@@ -4,7 +4,7 @@ I’m passionate about computation because it’s an incredible way to solve pro
 
 A little bit more about me:
 
-- 🎓 Systems Development student at [FAT Technical School](https://escolatecnicafat.org.br/)
+- 🎓 Technical Systems Development student at [FAT Technical School](https://escolatecnicafat.org.br/)
 - 🎓 Soon to be an undergraduate Computer Science student at [Rural University of Pernambuco](http://www.bcc.ufrpe.br/)
 - 👨🏻‍💻 Technologies I’m Learning:
   - Python (Django, FastAPI, Numpy, Pandas, Poetry)
