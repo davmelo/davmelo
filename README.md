@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, i'm David Melo   <img src="https://img.clipart-library.com/2/clip-computer-animated-gif/clip-computer-animated-gif-23.gif" height="80px" width="80px">
 
-<!--
-**davmelo/davmelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m passionate about computation because it’s an incredible way to solve problems. That’s why I’ve been dedicating my time to studying and developing my skills to become a Back-end developer. Plus, I love dabbling in machine learning from time to time. 🚀
 
-Here are some ideas to get you started:
+A little bit more about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Systems Development student at [FAT Technical School](https://escolatecnicafat.org.br/)
+- 🎓 Soon to be an undergraduate Computer Science student at [Rural University of Pernambuco](http://www.bcc.ufrpe.br/)
+- 👨🏻‍💻 Technologies I’m Learning:
+  - Python (Django, FastAPI, Numpy, Pandas, Poetry)
+  - Java (Spring Boot)
+  - Databases: MongoDB, PostgreSQL
+  - Tools and IDEs: Git, GitHub, Eclipse IDE, VSCode
